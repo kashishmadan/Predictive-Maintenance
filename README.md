@@ -30,3 +30,10 @@
 
 ## Output after 2000 epochs of training
 ![Result](https://github.com/kashishmadan/predictive-maintenance/blob/master/Images/image2.png)     
+
+# Project for Bristlecone Team 9 
+## Team Members 
+Tarang Goel [@taranggoel]
+Jatin Sainani [@jatin-sainani]
+Kashish Madan [@kashishmadan]
+Ayush Goyal
