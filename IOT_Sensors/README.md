@@ -1,5 +1,5 @@
-# Arduino Code for Predictive Maintenance
+# Arduino to collect data from sensors for Predictive Maintenance
 
-Circuit 
+## Circuit 
 
 ![Circuit](https://github.com/kashishmadan/predictive-maintenance/blob/master/Images/image1.jpeg)
