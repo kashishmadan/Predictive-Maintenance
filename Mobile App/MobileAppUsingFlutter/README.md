@@ -2,6 +2,8 @@
 
 # Features
 1. Splash Screen 
+
+
 ![SplashScreen](https://github.com/kashishmadan/predictive-maintenance/blob/master/Images/app_splash_screen.gif)
 
 + Turning adapter on and off,
