@@ -1,8 +1,7 @@
-# `flutter_bluetooth_serial_example`
+# flutter_predictive_maintenance
 
-Example application demonstrates key features of the `flutter_bluetooth_serial` plugin:
-
-+ Adapter status monitoring,
+# Features
+1. Splash Screen 
 
 + Turning adapter on and off,
 
