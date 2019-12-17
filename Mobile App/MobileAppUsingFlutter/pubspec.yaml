@@ -1,0 +1,26 @@
+name: flutter_bluetooth_serial_example
+version: 0.2.2
+description: Demonstrates how to use the `flutter_bluetooth_serial` plugin.
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  scoped_model: ^1.0.1
+  charts_flutter:
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_bluetooth_serial:
+    path: ../
+
+flutter:
+  uses-material-design: true
+  assets:
+
+    - images/
