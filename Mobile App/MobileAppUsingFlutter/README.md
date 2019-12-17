@@ -2,6 +2,7 @@
 
 # Features
 1. Splash Screen 
+![SplashScreen](Images/app_splash_screen.gif)
 
 + Turning adapter on and off,
 
