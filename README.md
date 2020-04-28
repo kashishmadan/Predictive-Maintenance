@@ -34,6 +34,9 @@
 # Project for Bristlecone Team 9 
 ## Team Members 
 Tarang Goel ![@taranggoel](https://github.com/taranggoel)
+
 Jatin Sainani ![@jatin-sainani](https://github.com/jatin-sainani)
+
 Kashish Madan ![@kashishmadan](https://github.com/kashishmadan)
+
 Ayush Goyal ![ayushg162](https://github.com/ayushg162)
