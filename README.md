@@ -1,8 +1,7 @@
 # Predictive Maintenance
 
 
-# 1. Arduino to collect data from sensors for Predictive Maintenance
-
+# 1. Real-time Data Collection using various Sensors
 ## Circuit 
 
 ![Circuit](https://github.com/kashishmadan/predictive-maintenance/blob/master/Images/image1.jpeg)
